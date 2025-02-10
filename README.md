@@ -71,4 +71,4 @@ Thanks for playing. I hope you enjoyed it.
 This project is a task from [roadmap.sh](https://roadmap.sh/projects/number-guessing-game). The objective was to create a game that met specific requirements.
 
 ## Feedback
-
+If you observe any errors or have a suggestion for improving my code or README file, please leave a detailed comment. Reading another opinion would be very useful for me.
